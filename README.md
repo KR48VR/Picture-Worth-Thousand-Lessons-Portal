@@ -10,8 +10,9 @@ Upload the contents of this folder to a GitHub Pages repository. The portal inte
 Files:
 
 - `index.html`
-- `styles.css`
+- `portal-20260624.css` — versioned stylesheet to avoid GitHub Pages cache mismatch
+- `styles.css` — fallback copy of the stylesheet
 - `assets/hero-hands-maker-v2.jpg` — pen-and-watercolor photography/making montage
 - `assets/flower-science-hands.jpg` — watercolor flower/science image
-- `assets/feedback-oil-hands.jpg` — vibrant oil-painting feedback-loop image
+- `assets/feedback-impasto-hands.jpg` — playful impasto oil-painting feedback-loop image
 - `assets/craft-hands.jpg` — pencil craft image
